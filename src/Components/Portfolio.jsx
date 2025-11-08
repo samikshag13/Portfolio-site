@@ -31,28 +31,19 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Campstay",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed a website using JavaScript, Node.js, Express, MongoDB, Heroku, Cloudinary API and MapBoxAPI. Designed and implemented CampStay(a website for campsites) that has CRUD functionality and supports user log in, posting reviews and comments, editing previous submissions and upload images. Designed and implemented MongoDB infrastructure to store reviews/comments data and relevant information associated with users and campsites." ,
   },
   {
-    title: "Web Development for Beginners",
+    title: "The-Garnish",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built The Garnish, a full-stack recipe and blog web app using React, Node.js, Express, and PostgreSQL with user authentication and responsive design.",
   },
   {
-    title: "My Resume Site",
+    title: "Digital Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities." ,
   },
 ];
 
